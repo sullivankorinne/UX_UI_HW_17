@@ -2,7 +2,7 @@ li {
     color: aquamarine;
 }
 
-.inline-block {
+navigation {
     display: inline;
     vertical-align: top;
 }
@@ -13,7 +13,7 @@ li {
     text-align: center;
 }
 
-nav {
+#nav {
     width: 73%;
     padding: 1%;
 }
@@ -23,17 +23,19 @@ nav {
     margin-left: auto;
 }
 
-.heroImg {
+#heroImg {
     height: 600px;
     padding: 25px;
 }
 
 .content {
     width: 500px;
-    margin: 0 auto:
+    margin: 0 auto;
 }
 
-#footer {
+footer {
     background-color: #373738;
 }
+
+
 
